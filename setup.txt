@@ -1,0 +1,15 @@
+# To check python installed version
+py -0
+
+# Make venv
+py -3.11 -m venv venv
+
+# Activate venv
+venv\Scripts\activate
+
+# now installed all dependecies
+pip install uv
+uv pip install -r requirements.txt
+
+# Important Notes 
+streamlit frontent UI: statefullness 
