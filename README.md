@@ -6,7 +6,6 @@ It automates attendance, improves classroom efficiency, and provides a modern da
 
 The system leverages **face recognition, voice processing, and data analytics** to make attendance seamless and accurate.
 
----
 - **Live Demo 💻:** https://smartclass-main.streamlit.app
 ---
 
