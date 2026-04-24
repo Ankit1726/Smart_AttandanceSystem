@@ -105,11 +105,9 @@ Contributions are welcome!
 4. Submit a PR
 
 ---
-
 ## 👨‍💻 Author
-
-**Ankit Gupta**
+- **Ankit Gupta**
 ---
 
 ## ⭐ Support
-If you like this project, give it a ⭐ on GitHub!
+- If you like this project, give it a ⭐ on GitHub!
